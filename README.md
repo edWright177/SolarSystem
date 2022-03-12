@@ -1,6 +1,6 @@
 # TinyPlanets1
 
-27:46:29
+26:05:06
 
 To Do:
 -Implement camera controller (re-write)
