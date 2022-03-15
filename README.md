@@ -3,8 +3,12 @@
 24:45:33
 
 To Do:
--Implement camera controller (re-write)
--Make moon orbit Earth
--Implement sun ✔
--Make custom skybox: https://lightshaderdevlog.wordpress.com/2016/08/10/how-to-make-a-simple-space-skybox-with-sun-in-unity/ ✔
-http://nbodyphysics.com/blog/2017/11/30/is-unity-good-at-orbits/
+Mercury (3/15 - 16)
+Venus (3/16)
+Earth (3/17)
+Mars (3/18)
+Jupiter (3/19)
+Saturn (3/20)
+Uranus (3/21)
+Neptune (3/22)
+
