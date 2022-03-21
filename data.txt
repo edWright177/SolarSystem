@@ -1,0 +1,2 @@
+Uranus Data: Size: 0.0373134328358; Rotation time: 17 hours 14 minutes; Year length: 84 earth years; 19.8 au from sun,
+Neptune Data: Size: 0.0361010830325; Rotation time: ; Year length: 165 earth years; 16 hours; 30 au from sun
